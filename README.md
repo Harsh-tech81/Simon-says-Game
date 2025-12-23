@@ -65,14 +65,3 @@ Contributions are welcome! If you have ideas for improvements, feel free to:
 - Built for learning *JavaScript DOM manipulation & game logic*.  
 
 ---
-
-🎉 *Enjoy the game!* Let me know if you beat the highest level! 🎮  
-
-(You can add a footer with your socials/portfolio link.)  
-
----
-
-Would you like me to add anything else, like a *code snippet preview* or *detailed JS logic explanation*? 😊
-
-
-
